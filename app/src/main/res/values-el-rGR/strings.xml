@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoMark</string>
+    <string name="insert_text_here">Εισάγετε Κείμενο Εδώ</string>
+    <string name="convert">Μετατροπή</string>
+    <string name="copy_to_clipboard">Αντιγραφή στο Πρόχειρο</string>
+    <string name="help">Βοήθεια</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="undo">Αναίρεση</string>
+    <string name="redo">Επανάληψη</string>
+    <string name="clear">Εκκαθάριση</string>
+    <string name="load">Άνοιγμα Αρχείου Κειμένου</string>
+    <string name="save">Αποθήκευση σε Αρχείο Κειμένου</string>
+    <string name="help_text">Το AutoMark προσθέτει αυτόματα στο κείμενό σας τα απαραίτητα σημεία στίξης. \n\nΓια να χρησιμοποιήσετε το AutoMark, πρέπει να έχετε εγκατεστημένο το Gboard ή κάποιο άλλο παρόμοιο πληκτρολόγιο με Φωνητική Αναγνώριση. Ενώ μιλάτε, χρησιμοποιήστε τις παρακάτω λέξεις και θα αντικατασταθούν με τα ανάλογα σημεία στίξης αφού πατήσετε το κουμπί «Μετατροπή»:\n</string>
+    <string name="help_text_2">Το AutoMark δεν χρειάζεται για γλώσσες που έχουν ήδη σημεία στίξης μέσω φωνητικής αναγνώρισης στο Gboard, όπως τα Αγγλικά.\n</string>
+    <string name="save_title">Διατήρηση κειμένου μετά από επανεκκίνηση</string>
+    <string name="welcome_title">Καλωσορίσατε στο AutoMark!</string>
+    <string name="load_error">Προέκυψε σφάλμα κατά το άνοιγμα του αρχείου</string>
+    <string name="conversion_completed">Η μετατροπή ολοκληρώθηκε!</string>
+    <string name="copied_to_clipboard">Το κείμενο αντιγράφηκε</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="save_error">Προέκυψε σφάλμα κατά την αποθήκευση του αρχείου</string>
+</resources>

@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:key="save_text"
+        app:title="@string/save_title"/>
+
+</PreferenceScreen>

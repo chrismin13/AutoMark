@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AutoMark</string>
+    <string name="insert_text_here">Insert Text Here</string>
+    <string name="convert">Convert</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="clear">Clear</string>
+    <string name="load">Open Text File</string>
+    <string name="save">Save to Text File</string>
+    <string name="help_text">AutoMark automatically replaces text with the necessary punctuation marks. \n\nIn order to use AutoMark, you must use Gboard or a similar keyboard with Voice Dictation. While speaking, use one of the following keywords, and they will be replaced with the appropriate punctuation marks after tapping the "Convert" button:\n</string>
+    <string name="help_text_2">AutoMark is not required for languages that already have support for punctuation marks in Gboard, such as English.\n</string>
+
+    <string name="save_title">Save text when exiting the app</string>
+    <string name="welcome_title">Welcome to AutoMark!</string>
+    <string name="load_error">An error has occurred while opening the file</string>
+    <string name="conversion_completed">Conversion Completed!</string>
+    <string name="copied_to_clipboard">Copied to Clipboard</string>
+    <string name="save_error">An error has occurred while saving the file</string>
+    <string name="share">Share</string>
+</resources>
